@@ -1,11 +1,15 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "Hallå!"
-      }
-    ],
-    "profile": {
-      "name": "typkod"
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hallå!"
     }
-  }
+  ],
+  "profile": {
+    "name": "typkod"
+  },
+  "workshops": [
+    { "id": 941, "name": "Thomas" },
+    { "id": 942, "name": "Jockes" }
+  ]
+}
